@@ -1,0 +1,16 @@
+.box{
+    height: 100px;
+    width: 120px;
+    text-align: center;
+    padding: 5% 0 0 0;
+    border: 2px solid black;
+    margin: 5px 2px 5px 2px;
+    background-color: aqua;
+}
+
+.content{
+    color:azure;
+}
+.newClass{
+    background-color: black;
+}
